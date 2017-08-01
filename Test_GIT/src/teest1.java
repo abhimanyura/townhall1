@@ -13,6 +13,10 @@ public int Add()
 	System.out.println("addition result is"+c);
 	return c;
 //	comment
+<<<<<<< HEAD
 //	my name is abhimanyu
+=======
+//	comment2
+>>>>>>> branch 'master' of https://github.com/abhimanyura/townhall1.git
 }
 }
